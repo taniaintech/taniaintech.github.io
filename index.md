@@ -28,11 +28,11 @@ Random Forest achieved strong performance on the test set; however, cross-valida
 
 ![Churn Feature Importance](files/feature_importance.png)
 
-[Telecom Churn Prediction](https://github.com/taniaintech/telecom_churn)
+[Telecom Churn Prediction](https://github.com/taniaintech/telecom-churn)
 
 ## Exploratory Data Analysis: HR Attrition
 In this project, I explored an HR dataset to identify which departments experience the highest attrition and what employee-level factors may contribute to it. The Sales department had the highest attrition rate, and key influencing factors included age, income, commute distance, and work-life balance.
 
 ![HR Attrition Chart](files/attrition_chart.png)
 
-[EDA - HR Attrition](https://github.com/taniaintech/hr_attrition_eda)
+[EDA - HR Attrition](https://github.com/taniaintech/hr-attrition-eda)
