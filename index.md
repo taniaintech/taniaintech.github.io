@@ -2,37 +2,45 @@
 layout: default
 ---
 
-## About Me
+## About
 
-Welcome! I’m Tania Green — a lifelong learner who loves using data to answer big questions. Scroll down to explore my handpicked projects, and feel free to reach out if one sparks your interest!
+Unleashing potential through innovative solutions.
+Curious and committed learner specializing in process automation and transformation. I love using data and strategy to answer big questions. Scroll down to explore my experience!
 
-<a href="/files/TANIA_GREEN_Resume_2025_final.pdf" class="button" target="_blank">📄 View My Resume</a>
+<a href="/files/Tania Green_IT Project Manager Resume.pdf" class="button" target="_blank">📄 View My Resume</a>
 <a href="https://www.linkedin.com/in/taniagreen03" class="button" target="_blank">🔗 Connect on LinkedIn</a>
 
 ---
 
 ## Projects
-### Decoding Customer Sentiment: Analyzing Amazon Reviews Across Product Categories 
-Explored the alignment between customer-written Amazon reviews and their corresponding star ratings across various product categories. Utilizing Natural Language Processing (NLP) techniques such as **VADER**, the analysis aimed to determine whether the sentiment expressed in review texts accurately reflected the numerical ratings provided by customers. 
+### Case Study 1: Enterprise Upgrade Support - Costpoint Implementation 
+The organization required a coordinated upgrade of its Costpoint system, involving multiple teams across testing, cutover, and post-go-live stabilization.  
 
-By applying **Pearson and Spearman** correlation tests, the project uncovered instances where sentiment and star ratings diverged — highlighting the complexity of customer feedback and the limitations of relying solely on numerical scores for product evaluation.
+ACTIONS:
+* Supported project execution from planning through deployment and post Go-Live.
+* Facilitated communications across technical teams and business stakeholders.
+* Supported Test Lead by updating test scripts and importing them into Zephyr.
+* Created dashboards in Zephyr to track text execution per test cycle. 
+   * Facilitated communications across technical teams and business stakeholders.
+   * Captured lessons learned to imporve future upgrade cycles.
 
 ![Sentiment Analysis](files/amazon_review_sentiment.png)
 
 [Amazon Review Sentiment Analysis](https://github.com/taniaintech/amazon_sentiment_analysis)
 
-### Telecom Churn Prediction
-I built a predictive model to identify customers at risk of churning using a real-world telecom dataset. After performing exploratory data analysis (EDA) and feature engineering, I trained and evaluated multiple classification models, including **Logistic Regression** and **Random Forest**.
-
-Random Forest achieved strong performance on the test set; however, cross-validation results showed that Logistic Regression consistently outperformed Random Forest in terms of F1 score (60% vs 55%). Since F1 score is a better measure for imbalanced classification tasks like churn prediction, Logistic Regression was selected as the final model. Key predictors of churn included contract type, tenure, payment method, and whether the customer had online security or tech support services.
+### Case Study 2: Automated Invoice Approval and Submission
+To add
 
 ![Churn Feature Importance](files/feature_importance.png)
 
 [Telecom Churn Prediction](https://github.com/taniaintech/telecom-churn)
 
-## Exploratory Data Analysis: HR Attrition
-In this project, I explored an HR dataset to identify which departments experience the highest attrition and what employee-level factors may contribute to it. The Sales department had the highest attrition rate, and key influencing factors included age, income, commute distance, and work-life balance.
+## Automated Time and Expense Report Requests for Suppliers
+To add
 
 ![HR Attrition Chart](files/attrition_chart.png)
 
 [EDA - HR Attrition](https://github.com/taniaintech/hr-attrition-eda)
+
+## Automated Subcontractor Onboarding
+
